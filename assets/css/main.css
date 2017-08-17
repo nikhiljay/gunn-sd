@@ -1714,6 +1714,7 @@
 
 	header {
 		margin: 0 0 1em 0;
+		text-align: center;
 	}
 
 		header > p {
@@ -3066,9 +3067,9 @@
   .responsive-iframe-container iframe,
   .vresponsive-iframe-container object,
   .vresponsive-iframe-container embed {
-      position: absolute;
       top: 0;
       left: 0;
-      width: 100%;
-      height: 100%;
+      width: 90%;
+      height: 95%;
+			margin:0 auto;
   }
