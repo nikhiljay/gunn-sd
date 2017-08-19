@@ -1,2 +1,1 @@
-# gunn-sd
-A website for Gunn Speech and Debate
+# Gunn Speech and Debate Website
